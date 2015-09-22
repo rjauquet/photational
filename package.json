@@ -1,0 +1,27 @@
+{
+  "name": "photational",
+  "version": "1.0.0",
+  "description": "A computational photography package for html canvas",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjauquet/photational.git"
+  },
+  "keywords": [
+    "computational",
+    "photography",
+    "canvas"
+  ],
+  "author": "Rob Jauquet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjauquet/photational/issues"
+  },
+  "homepage": "https://github.com/rjauquet/photational#readme"
+}
